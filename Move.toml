@@ -5,4 +5,4 @@ version = '1.0.0'
 local = "../framework/aptos-framework"
 
 [addresses]
-ctfmovement = '_'
+ctfmovement = '0x9ecda643ec79d0ceb4cd153b98c045dbed2f03abb62ee6b63a23dbe8e8f80246'

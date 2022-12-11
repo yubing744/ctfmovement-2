@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export MY_ADDRESS=5bc757d3585a1a6e615fd71d12e5ff1e3d35be7eac8c15b3ff3fe216033ba866
+export CTF_CONTRACT=0x9ecda643ec79d0ceb4cd153b98c045dbed2f03abb62ee6b63a23dbe8e8f80246

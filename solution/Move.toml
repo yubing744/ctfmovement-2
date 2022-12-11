@@ -1,0 +1,13 @@
+[package]
+name = 'solution'
+version = '1.0.0'
+
+[dependencies.AptosFramework]
+local = "../../framework/aptos-framework"
+
+[dependencies.hello_move]
+local = ".."
+
+[addresses]
+solution = '_'
+ctfmovement = '_'
